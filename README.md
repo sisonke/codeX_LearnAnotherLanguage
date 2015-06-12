@@ -2,7 +2,7 @@
 
 Time has come for  you to learn a new programming language to help cement your coding skills. We prefer that you learn Python, but given a good enough reason you can learn another language. We will handle language choice on a case by case basis.
 
->> It’s important that you are starting to work on your public profile on github.
+> It’s important that you are starting to work on your public profile on github.
 
 ## Learn the basics
 
@@ -39,7 +39,11 @@ Once your project is set, you will need to develop the following agile product d
 
 ## Technologies to use:
 
-You’ll need different tech stacks, depending on which language you use. For Python & Ruby see below. How do these compare with Javascript?
+You’ll need different tech stacks, depending on which language you use. 
+
+For Python & Ruby see below. 
+
+> How do these compare with Javascript?
 
 Skill | Python | Ruby |
 ------|--------|-----------|
