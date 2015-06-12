@@ -10,11 +10,11 @@ Use the new language & TDD to:
 * To solve Nelisa’s Story 1 and Story 2 using the CSV file
 * To connect to a MySQL database for Nelisa’s Shop
 * Setup a web server to display:
-* How many of each product Nelisa sold
-* How many of each category Nelisa sold
-* Show all products
-* Create forms to create new categories & products
-* Use Bootstrap as your CSS framework
+  * How many of each product Nelisa sold
+  * How many of each category Nelisa sold
+  * Show all products
+  * Create forms to create new categories & products
+  * Use Bootstrap as your CSS framework
 * Explore & use an ORM framework
 
 ## Start a project
