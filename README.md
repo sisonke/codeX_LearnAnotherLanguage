@@ -41,30 +41,12 @@ Once your project is set, you will need to develop the following agile product d
 
 You’ll need different tech stacks, depending on which language you use. For Python & Ruby see below. How do these compare with Javascript?
 
-Skill
-Python
-Ruby
-TDD
-* your choice
-* your choice
-Web framework
-Flask
-Sinatra
-ORM
-PeeWee
-Active Record
-Templating
-* your choice
-* your choice
-Database Migrations
-* your choice
-* your choice
-Continuous Integration
-Travis/Jenkins
-Travis/Jenkins
-Deployment
-VPS using Digital Ocean
-VPS using Digital Ocean
-
-
-
+Skill | Python | Ruby |
+------|--------|-----------|
+TDD   | * your choice |* your choice|
+Web framework|Flask | Sinatra |
+ORM |PeeWee | Active Record |
+Templating |* your choice |* your choice |
+Database Migrations|* your choice |* your choice
+Continuous Integration | Travis/Jenkins | Travis/Jenkins
+Deployment |VPS using Digital Ocean | VPS using Digital Ocean
