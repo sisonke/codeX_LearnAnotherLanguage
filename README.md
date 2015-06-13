@@ -1,5 +1,7 @@
 # Learn a new programming language
 
+[![Join the chat at https://gitter.im/codex-academy/codeX_LearnAnotherLanguage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codex-academy/codeX_LearnAnotherLanguage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Time has come for  you to learn a new programming language to help cement your coding skills. We prefer that you learn Python, but given a good enough reason you can learn another language. We will handle language choice on a case by case basis.
 
 > It’s important that you are starting to work on your public profile on github.
