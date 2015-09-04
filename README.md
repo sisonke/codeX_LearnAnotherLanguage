@@ -2,28 +2,28 @@
 
 [![Join the chat at https://gitter.im/codex-academy/codeX_LearnAnotherLanguage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codex-academy/codeX_LearnAnotherLanguage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Time has come for  you to learn a new programming language to help cement your coding skills. We prefer that you learn Python, but given a good enough reason you can learn another language. We will handle language choice on a case by case basis.
+The time has come for  you to learn a new programming language to help cement your coding skills. We prefer that you learn Python, but given a good enough reason you can learn another language. We will handle language choice on a case by case basis.
 
-> It’s important that you are starting to work on your public profile on github.
+> It’s important that you start working on your public profile on GitHub.
 
 ## Learn the basics
 
 Use the new language & TDD to:
-* To solve Nelisa’s Story 1 and Story 2 using the CSV file
-* To connect to a MySQL database for Nelisa’s Shop
-* Setup a web server to display:
-  * How many of each product Nelisa sold
-  * How many of each category Nelisa sold
+* Solve Nelisa’s Story 1 and Story 2 using the CSV file
+* Connect to a MySQL database for Nelisa’s Shop
+* Setup a web server and:
+  * Show how many of each product Nelisa sold
+  * Show how many of each category Nelisa sold
   * Show all products
   * Create forms to create new categories & products
-  * Use Bootstrap as your CSS framework
+* Use Bootstrap as your CSS framework
 * Explore & use an ORM framework
 
 ## Start a project
 
 Now implement a project of your own choice using the new language you learned. Please come and discuss the details of your project with us.
 
-Before you so answer the questions below and draw up a block diagram to describe your project:
+Before you do so, answer the questions below and draw up a block diagram to describe your project:
 
 * What is your project about?
 * Who is your target audience?
@@ -41,9 +41,9 @@ Once your project is set, you will need to develop the following agile product d
 
 ## Technologies to use:
 
-You’ll need different tech stacks, depending on which language you use. 
+You'll need different tech stacks, depending on which language you use.
 
-For Python & Ruby see below. 
+For Python & Ruby see below.
 
 > How do these compare with Javascript?
 
