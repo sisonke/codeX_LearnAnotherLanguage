@@ -13,8 +13,8 @@ Concepts to keep in mind:
 * Input/Output
 * If/Else statements
 * Print
-* 
-Data for this is at [mobilephoneplans.md](/mobilephoneplans.md)
+
+You'll find the data for this project at [mobilephoneplans.md](/mobilephoneplans.md)
 
 ## 2. Guess the Number
 
