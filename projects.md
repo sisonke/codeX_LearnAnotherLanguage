@@ -3,7 +3,16 @@
 ## 1. Mobile phone budget tool
 
 The Goal: Budget for your calls by choosing your service provider and your current airtime, to see how many calls or SMS's you can make.
+When the app starts it should prompt the user for their mobile phone provider, then show them a list of available plans to choose from. Then they can enter their current airtime balance, to see how many calls, SMSs or how much data usage they have availabe.
 
+Concepts to keep in mind:
+
+* Maps
+* Functions
+* Variables
+* Input/Output
+* If/Else statements
+* Print
 
 ## 2. Guess the Number
 
@@ -19,7 +28,6 @@ Concepts to keep in mind:
 * While loops
 * If/Else statements
 
-Jumping off the first project, this project continues to build up the base knowledge and introduces user-inputted data at its very simplest. With user input, we start to get into a little bit of variability.
 
 ## 3. Mad Libs Generator
 
@@ -32,6 +40,5 @@ Concepts to keep in mind:
 * Concatenation
 * Print
 
-A pretty fun beginning project that gets you thinking about how to manipulate userinputted data. Compared to the prior projects, this project focuses far more on strings and concatenating. Have some fun coming up with some wacky stories for this!
 
-[Projects 2 and 3 are from this cool set of learning projects: http://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/]
+[*Note:* Projects 2 and 3 are from this cool set of learning projects:  http://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/]
