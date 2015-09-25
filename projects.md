@@ -3,7 +3,7 @@
 ## 1. Mobile phone budget tool
 
 The Goal: Budget for your calls by choosing your service provider and your current airtime, to see how many calls or SMS's you can make.
-When the app starts it should prompt the user for their mobile phone provider, then show them a list of available plans to choose from. Then they can enter their current airtime balance, to see how many calls, SMSs or how much data usage they have availabe.
+When the app starts it should prompt the user for their mobile phone provider, then show them a list of available plans to choose from. Then they can enter their current airtime balance, to see how many calls or SMSs they can make, or how much data usage they have available.
 
 Concepts to keep in mind:
 
@@ -13,6 +13,8 @@ Concepts to keep in mind:
 * Input/Output
 * If/Else statements
 * Print
+* 
+Data for this is at [mobilephoneplans.md](/mobilephoneplans.md)
 
 ## 2. Guess the Number
 
