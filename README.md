@@ -6,6 +6,10 @@ The time has come for  you to learn a new programming language to help cement yo
 
 > It’s important that you start working on your public profile on GitHub.
 
+## Start here
+
+Use one of these [projects](./projects.md) as a starting point. What do you need to learn the new lanuguage to complete one of the project? Focus on those skills.
+
 ## Learn the basics
 
 Use the new language & TDD to:
@@ -54,5 +58,5 @@ Web framework|Flask | Sinatra |
 ORM |PeeWee | Active Record |
 Templating |* your choice |* your choice |
 Database Migrations|* your choice |* your choice
-Continuous Integration | Travis/Jenkins | Travis/Jenkins
+Continuous Integration | Travis | Travis
 Deployment |VPS using Digital Ocean | VPS using Digital Ocean
